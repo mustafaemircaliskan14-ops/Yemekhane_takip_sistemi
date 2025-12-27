@@ -15,7 +15,7 @@ Sistem, öğrencilerin haftalık yemekhane kullanımını, harcamalarını ve to
 
 ---
 
-## ⚙️ Özellikler
+##  Özellikler
 
 - Maksimum **10 öğrenci** kaydı
 - **5 günlük (haftalık)** takip sistemi
@@ -29,7 +29,7 @@ Sistem, öğrencilerin haftalık yemekhane kullanımını, harcamalarını ve to
 
 ---
 
-## 🧠 Kullanılan Fonksiyonlar
+##  Kullanılan Fonksiyonlar
 
 | Fonksiyon Adı | Açıklama |
 |--------------|----------|
@@ -40,6 +40,10 @@ Sistem, öğrencilerin haftalık yemekhane kullanımını, harcamalarını ve to
 
 ---
 
-## 📂 Dosya Yapısı
+##  Derleme ve Çalıştırma
+
+### GCC ile derlemek için:
+```bash
+gcc main.c -o yemekhane
 
 
